@@ -8,7 +8,7 @@ prepaid-only for the extreme tail) instead of blanket COD fees that punish hones
 This is not Meesho production data or a deployed checkout intervention. The scorecard weights are
 specified assumptions, not coefficients fitted by machine learning. Modeled savings are not observed business impact.
 
-**Live workspace:** https://DakshTyagi-https://meesho-rto-engine-9bsmqjgnerydpiajpqfsja.streamlit.app/
+**Live workspace:** https://meesho-rto-engine-9bsmqjgnerydpiajpqfsja.streamlit.app/
 
 ## Reproducible synthetic scenario
 
